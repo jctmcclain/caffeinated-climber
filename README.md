@@ -7,3 +7,6 @@
 | PRJX-02 | Service : HTML, CSS, JAVASCRIPT, and XML | 10/31/2024 | 
 | PRJX-03 | Customers : HTML, Bootstrap, Forms , and JavaScript  | 11/21/2024 | 
 | PRJX-04 | Products : HTML, CSS, Bootstrap, JavaScript, with JSON | 12/3/2024 | 
+
+### Status: Production
+#### Associated with a Course - Project Modules
